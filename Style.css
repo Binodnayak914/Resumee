@@ -1,0 +1,45 @@
+.firstContainer{
+    display: flex;
+    justify-content:space-around;
+}
+.leftContainer{
+        width: 300px ;
+        background-color: #d6dee3;
+        
+}
+.rightContainer{
+    width: 300px;
+}
+table{
+    border-collapse: collapse;
+    gap: 5px
+    ;
+}
+th,td{
+    border: 1px solid black;
+    gap: 8px;
+}
+.nameStyle{
+    padding: 10px;
+    width: 200px;
+    margin-top: -41px;
+    margin-left: 252px;
+    color: blue;
+}
+.mainContainer{
+    width: 750px;
+    box-shadow: 1px 1px 6px gray;
+    margin: auto;
+}
+.emailStyle{
+    margin-left: 35px;
+    padding-top: 25px;
+}
+.imgstyle{
+    height: 60px;
+    width: 87px;
+}
+.subtitle{
+    display: flex;
+    gap: 5px;
+}
